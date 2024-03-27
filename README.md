@@ -7,8 +7,12 @@
     * [Docker Eğitimi - Bölüm 2](https://www.youtube.com/watch?v=aI61tgbUVkA)
     * [Kubernetes ile Container Orkestrasyonu](https://www.youtube.com/watch?v=TV00zRu6DEs)
 * # Go
-  * Sub Item A
-  * Sub Item B
+   * ## Notes 
+     * ddd
+  * ## Videos
+     * ddd
 * # Microservices
-  * Sub Item A
-  * Sub Item B
+   * ## Notes 
+     * ddd
+  * ## Videos
+     * ddd
