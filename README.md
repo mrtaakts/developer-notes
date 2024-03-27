@@ -20,3 +20,4 @@
      * [.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/learn)
      * [Cloud-Native: Microservices, Kubernetes, Service Mesh, CI/CD](https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/learn)
      * [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/learn)
+     * [Full Mikroservis Projesi - SellingBuddy](https://www.youtube.com/playlist?list=PLRp4oRsit1bzd6v_1zwNjdBOnGNuvHjWy)
