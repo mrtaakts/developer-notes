@@ -1,6 +1,7 @@
 * # Docker
-  * [Docker Nedir?](https://github.com/mrtaakts/MyDevelopmentNotes/blob/main/Docker/Nedir%3F/readme.md)
-  * Videos
+  * ## Notes 
+    * [Docker Nedir?](https://github.com/mrtaakts/MyDevelopmentNotes/blob/main/Docker/Nedir%3F/readme.md)
+  * ## Videos
     * [Sıfırdan Docker - Docker Tutorial](https://www.youtube.com/playlist?list=PLRp4oRsit1bzGGClDYCplnGKYI6p-dDE1)
     * [Docker Eğitimi - Bölüm 1](https://www.youtube.com/watch?v=ErBIAgwoqY8)
     * [Docker Eğitimi - Bölüm 2](https://www.youtube.com/watch?v=aI61tgbUVkA)
