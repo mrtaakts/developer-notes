@@ -1,4 +1,6 @@
 # Docker Nedir?
+Docker açık kaynaklı yeni nesil sanallaştırma platformudur. Aynı işletim sistemi üzerinde birbirinden bağımsız containerlar sayesinde sanallaştırma sağlayan bir teknolojidir.
+<br /><br />
 
 ![Docker nedir](https://kodedu.com/wp-content/uploads/2015/06/vm-vs-docker-container.png)
 
